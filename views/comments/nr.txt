@@ -1,0 +1,1 @@
+This folder is no longer required if you are using the collapsible comment form. Otherwise, I am still providing the code.

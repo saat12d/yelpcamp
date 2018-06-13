@@ -1,0 +1,18 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.image-thumb {
+  width: 100% !important;
+  height: 250px !important;
+  background-size: cover;
+  background-position: center center;
+}
+
+.delete-form {
+    display: inline;
+}
