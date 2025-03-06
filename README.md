@@ -1,2 +1,2 @@
-# user-profile-edit
-Includes all the code for YelpCamp along with a user profile edit feature
+# YelpCamp
+Campsite aggregator website, with complete signup/login functionality. Includes features like image upload, comments and rating, google maps, etc.
